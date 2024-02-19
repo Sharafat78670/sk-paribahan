@@ -1,0 +1,15 @@
+.seat-design{
+    /* width: 20px;
+    height: 10px; */
+    padding: 20px;
+    background-color: gray;
+    border-radius: 5px;
+    text-align: center;
+    color: white;
+}
+.seat-design1{
+    font-size: medium;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+}
